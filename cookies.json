@@ -1,0 +1,14 @@
+{
+  "cookies": [
+    {
+      "name": "sid",
+      "value": "102h3nxCaGaTBCtVn8umgrhCA",
+      "domain": "login.educationadvanced.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ]
+}
